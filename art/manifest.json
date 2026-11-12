@@ -1,0 +1,1644 @@
+{
+ "images": {
+  "house-studio": {
+   "file": "house-studio.png",
+   "w": 81,
+   "h": 78
+  },
+  "house-creator": {
+   "file": "house-creator.png",
+   "w": 88,
+   "h": 85
+  },
+  "house-n1": {
+   "file": "house-n1.png",
+   "w": 32,
+   "h": 36
+  },
+  "house-n2": {
+   "file": "house-n2.png",
+   "w": 36,
+   "h": 32
+  },
+  "house-n3": {
+   "file": "house-n3.png",
+   "w": 39,
+   "h": 34
+  },
+  "tree": {
+   "file": "tree.png",
+   "w": 28,
+   "h": 40
+  },
+  "easel": {
+   "file": "easel.png",
+   "w": 19,
+   "h": 31
+  },
+  "studio": {
+   "file": "studio.png",
+   "w": 116,
+   "h": 111
+  },
+  "store": {
+   "file": "store.png",
+   "w": 77,
+   "h": 69
+  },
+  "chai": {
+   "file": "chai.png",
+   "w": 54,
+   "h": 52
+  },
+  "bus": {
+   "file": "bus.png",
+   "w": 84,
+   "h": 45
+  },
+  "banyan": {
+   "file": "banyan.png",
+   "w": 80,
+   "h": 86
+  },
+  "noticeboard": {
+   "file": "noticeboard.png",
+   "w": 26,
+   "h": 34
+  },
+  "player-down-0": {
+   "file": "player-down-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-down-w0": {
+   "file": "player-down-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-down-w1": {
+   "file": "player-down-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-down-w2": {
+   "file": "player-down-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-down-w3": {
+   "file": "player-down-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-0": {
+   "file": "player-up-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-w0": {
+   "file": "player-up-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-w1": {
+   "file": "player-up-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-w2": {
+   "file": "player-up-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-w3": {
+   "file": "player-up-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-0": {
+   "file": "player-side-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-w0": {
+   "file": "player-side-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-w1": {
+   "file": "player-side-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-w2": {
+   "file": "player-side-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-w3": {
+   "file": "player-side-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "meera-down-0": {
+   "file": "meera-down-0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-0": {
+   "file": "meera-up-0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-0": {
+   "file": "meera-side-0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-down-1": {
+   "file": "meera-down-1.png",
+   "w": 20,
+   "h": 31
+  },
+  "guddu-down-0": {
+   "file": "guddu-down-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-0": {
+   "file": "guddu-up-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-0": {
+   "file": "guddu-side-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-down-1": {
+   "file": "guddu-down-1.png",
+   "w": 18,
+   "h": 31
+  },
+  "sarpanch-down-0": {
+   "file": "sarpanch-down-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-up-0": {
+   "file": "sarpanch-up-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-0": {
+   "file": "sarpanch-side-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-down-1": {
+   "file": "sarpanch-down-1.png",
+   "w": 17,
+   "h": 31
+  },
+  "kishore-down-0": {
+   "file": "kishore-down-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-0": {
+   "file": "kishore-up-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-0": {
+   "file": "kishore-side-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-1": {
+   "file": "kishore-down-1.png",
+   "w": 19,
+   "h": 31
+  },
+  "savita-down-0": {
+   "file": "savita-down-0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-0": {
+   "file": "savita-up-0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-0": {
+   "file": "savita-side-0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-down-1": {
+   "file": "savita-down-1.png",
+   "w": 18,
+   "h": 29
+  },
+  "gulab-down-0": {
+   "file": "gulab-down-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-0": {
+   "file": "gulab-up-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-0": {
+   "file": "gulab-side-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-down-1": {
+   "file": "gulab-down-1.png",
+   "w": 19,
+   "h": 31
+  },
+  "bhagwat-down-0": {
+   "file": "bhagwat-down-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-0": {
+   "file": "bhagwat-up-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-0": {
+   "file": "bhagwat-side-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-down-1": {
+   "file": "bhagwat-down-1.png",
+   "w": 18,
+   "h": 31
+  },
+  "player-face": {
+   "file": "player-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "meera-face": {
+   "file": "meera-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "guddu-face": {
+   "file": "guddu-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "sarpanch-face": {
+   "file": "sarpanch-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "kishore-face": {
+   "file": "kishore-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "savita-face": {
+   "file": "savita-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "gulab-face": {
+   "file": "gulab-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "bhagwat-face": {
+   "file": "bhagwat-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "bench": {
+   "file": "bench.png",
+   "w": 28,
+   "h": 20
+  },
+  "boat": {
+   "file": "boat.png",
+   "w": 46,
+   "h": 18
+  },
+  "bridge-broken": {
+   "file": "bridge-broken.png",
+   "w": 53,
+   "h": 27
+  },
+  "bridge-fixed": {
+   "file": "bridge-fixed.png",
+   "w": 57,
+   "h": 42
+  },
+  "buffalo": {
+   "file": "buffalo.png",
+   "w": 42,
+   "h": 27
+  },
+  "bush-1": {
+   "file": "bush-1.png",
+   "w": 26,
+   "h": 26
+  },
+  "bush-2": {
+   "file": "bush-2.png",
+   "w": 26,
+   "h": 24
+  },
+  "cart": {
+   "file": "cart.png",
+   "w": 48,
+   "h": 23
+  },
+  "cat": {
+   "file": "cat.png",
+   "w": 20,
+   "h": 27
+  },
+  "charpai": {
+   "file": "charpai.png",
+   "w": 42,
+   "h": 28
+  },
+  "clothesline": {
+   "file": "clothesline.png",
+   "w": 54,
+   "h": 32
+  },
+  "cowshed": {
+   "file": "cowshed.png",
+   "w": 65,
+   "h": 61
+  },
+  "crate-old": {
+   "file": "crate-old.png",
+   "w": 28,
+   "h": 26
+  },
+  "crop-mustard": {
+   "file": "crop-mustard.png",
+   "w": 28,
+   "h": 29
+  },
+  "crop-wheat": {
+   "file": "crop-wheat.png",
+   "w": 37,
+   "h": 38
+  },
+  "cycle": {
+   "file": "cycle.png",
+   "w": 40,
+   "h": 23
+  },
+  "dhaba": {
+   "file": "dhaba.png",
+   "w": 85,
+   "h": 71
+  },
+  "dog": {
+   "file": "dog.png",
+   "w": 25,
+   "h": 29
+  },
+  "farmhouse": {
+   "file": "farmhouse.png",
+   "w": 75,
+   "h": 68
+  },
+  "flowers-1": {
+   "file": "flowers-1.png",
+   "w": 26,
+   "h": 26
+  },
+  "goat": {
+   "file": "goat.png",
+   "w": 26,
+   "h": 28
+  },
+  "handcart": {
+   "file": "handcart.png",
+   "w": 51,
+   "h": 41
+  },
+  "handpump": {
+   "file": "handpump.png",
+   "w": 25,
+   "h": 34
+  },
+  "haystack": {
+   "file": "haystack.png",
+   "w": 38,
+   "h": 32
+  },
+  "hedge": {
+   "file": "hedge.png",
+   "w": 48,
+   "h": 25
+  },
+  "hen": {
+   "file": "hen.png",
+   "w": 22,
+   "h": 27
+  },
+  "i-axe": {
+   "file": "i-axe.png",
+   "w": 30,
+   "h": 30
+  },
+  "i-bag": {
+   "file": "i-bag.png",
+   "w": 24,
+   "h": 24
+  },
+  "i-cap": {
+   "file": "i-cap.png",
+   "w": 22,
+   "h": 22
+  },
+  "i-chai": {
+   "file": "i-chai.png",
+   "w": 25,
+   "h": 25
+  },
+  "i-clip": {
+   "file": "i-clip.png",
+   "w": 19,
+   "h": 19
+  },
+  "i-feather": {
+   "file": "i-feather.png",
+   "w": 28,
+   "h": 28
+  },
+  "i-fibre": {
+   "file": "i-fibre.png",
+   "w": 24,
+   "h": 24
+  },
+  "i-hammer": {
+   "file": "i-hammer.png",
+   "w": 28,
+   "h": 28
+  },
+  "i-laddoo": {
+   "file": "i-laddoo.png",
+   "w": 30,
+   "h": 30
+  },
+  "i-mango": {
+   "file": "i-mango.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-marigold": {
+   "file": "i-marigold.png",
+   "w": 25,
+   "h": 25
+  },
+  "i-milk": {
+   "file": "i-milk.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-paints": {
+   "file": "i-paints.png",
+   "w": 28,
+   "h": 28
+  },
+  "i-paper": {
+   "file": "i-paper.png",
+   "w": 30,
+   "h": 30
+  },
+  "i-peacock": {
+   "file": "i-peacock.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-phone": {
+   "file": "i-phone.png",
+   "w": 29,
+   "h": 29
+  },
+  "i-photo": {
+   "file": "i-photo.png",
+   "w": 22,
+   "h": 22
+  },
+  "i-poster": {
+   "file": "i-poster.png",
+   "w": 24,
+   "h": 24
+  },
+  "i-prop": {
+   "file": "i-prop.png",
+   "w": 20,
+   "h": 20
+  },
+  "i-scrap": {
+   "file": "i-scrap.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-shawl": {
+   "file": "i-shawl.png",
+   "w": 32,
+   "h": 32
+  },
+  "i-sickle": {
+   "file": "i-sickle.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-tape": {
+   "file": "i-tape.png",
+   "w": 30,
+   "h": 30
+  },
+  "i-ticket": {
+   "file": "i-ticket.png",
+   "w": 20,
+   "h": 20
+  },
+  "i-wood": {
+   "file": "i-wood.png",
+   "w": 28,
+   "h": 28
+  },
+  "jeep": {
+   "file": "jeep.png",
+   "w": 55,
+   "h": 39
+  },
+  "junk": {
+   "file": "junk.png",
+   "w": 31,
+   "h": 21
+  },
+  "kingfisher": {
+   "file": "kingfisher.png",
+   "w": 20,
+   "h": 28
+  },
+  "lamp": {
+   "file": "lamp.png",
+   "w": 16,
+   "h": 52
+  },
+  "log": {
+   "file": "log.png",
+   "w": 34,
+   "h": 26
+  },
+  "lotus": {
+   "file": "lotus.png",
+   "w": 29,
+   "h": 28
+  },
+  "mela-gate": {
+   "file": "mela-gate.png",
+   "w": 90,
+   "h": 60
+  },
+  "milestone": {
+   "file": "milestone.png",
+   "w": 24,
+   "h": 28
+  },
+  "mistry-shed": {
+   "file": "mistry-shed.png",
+   "w": 88,
+   "h": 64
+  },
+  "old-set": {
+   "file": "old-set.png",
+   "w": 63,
+   "h": 65
+  },
+  "peacock-bird": {
+   "file": "peacock-bird.png",
+   "w": 44,
+   "h": 36
+  },
+  "poster-post": {
+   "file": "poster-post.png",
+   "w": 24,
+   "h": 36
+  },
+  "pots": {
+   "file": "pots.png",
+   "w": 28,
+   "h": 27
+  },
+  "reeds": {
+   "file": "reeds.png",
+   "w": 24,
+   "h": 22
+  },
+  "rock-big": {
+   "file": "rock-big.png",
+   "w": 38,
+   "h": 33
+  },
+  "rock-small": {
+   "file": "rock-small.png",
+   "w": 18,
+   "h": 13
+  },
+  "room-nani": {
+   "file": "room-nani.png",
+   "w": 256,
+   "h": 256
+  },
+  "room-props": {
+   "file": "room-props.png",
+   "w": 256,
+   "h": 256
+  },
+  "room-studio": {
+   "file": "room-studio.png",
+   "w": 256,
+   "h": 256
+  },
+  "rubble": {
+   "file": "rubble.png",
+   "w": 36,
+   "h": 26
+  },
+  "scarecrow": {
+   "file": "scarecrow.png",
+   "w": 28,
+   "h": 46
+  },
+  "set-piece": {
+   "file": "set-piece.png",
+   "w": 24,
+   "h": 23
+  },
+  "shrine": {
+   "file": "shrine.png",
+   "w": 38,
+   "h": 50
+  },
+  "signpost": {
+   "file": "signpost.png",
+   "w": 27,
+   "h": 40
+  },
+  "stump": {
+   "file": "stump.png",
+   "w": 29,
+   "h": 19
+  },
+  "sugarcane": {
+   "file": "sugarcane.png",
+   "w": 36,
+   "h": 50
+  },
+  "tikku-shop": {
+   "file": "tikku-shop.png",
+   "w": 58,
+   "h": 46
+  },
+  "tree-dead": {
+   "file": "tree-dead.png",
+   "w": 44,
+   "h": 52
+  },
+  "tree-mango": {
+   "file": "tree-mango.png",
+   "w": 56,
+   "h": 66
+  },
+  "tree-neem": {
+   "file": "tree-neem.png",
+   "w": 32,
+   "h": 69
+  },
+  "tree-palm": {
+   "file": "tree-palm.png",
+   "w": 32,
+   "h": 62
+  },
+  "tulsi": {
+   "file": "tulsi.png",
+   "w": 23,
+   "h": 38
+  },
+  "water-tower": {
+   "file": "water-tower.png",
+   "w": 48,
+   "h": 98
+  },
+  "weed-1": {
+   "file": "weed-1.png",
+   "w": 27,
+   "h": 26
+  },
+  "weed-2": {
+   "file": "weed-2.png",
+   "w": 28,
+   "h": 30
+  },
+  "well": {
+   "file": "well.png",
+   "w": 37,
+   "h": 43
+  },
+  "bhagwat-down-w0": {
+   "file": "bhagwat-down-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-down-w1": {
+   "file": "bhagwat-down-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-down-w2": {
+   "file": "bhagwat-down-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-down-w3": {
+   "file": "bhagwat-down-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-w0": {
+   "file": "bhagwat-up-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-w1": {
+   "file": "bhagwat-up-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-w2": {
+   "file": "bhagwat-up-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-w3": {
+   "file": "bhagwat-up-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-w0": {
+   "file": "bhagwat-side-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-w1": {
+   "file": "bhagwat-side-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-w2": {
+   "file": "bhagwat-side-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-w3": {
+   "file": "bhagwat-side-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "chintu-down-0": {
+   "file": "chintu-down-0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-0": {
+   "file": "chintu-up-0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-0": {
+   "file": "chintu-side-0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-down-1": {
+   "file": "chintu-down-1.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-face": {
+   "file": "chintu-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "guddu-down-w0": {
+   "file": "guddu-down-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-down-w1": {
+   "file": "guddu-down-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-down-w2": {
+   "file": "guddu-down-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-down-w3": {
+   "file": "guddu-down-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-w0": {
+   "file": "guddu-up-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-w1": {
+   "file": "guddu-up-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-w2": {
+   "file": "guddu-up-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-w3": {
+   "file": "guddu-up-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-w0": {
+   "file": "guddu-side-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-w1": {
+   "file": "guddu-side-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-w2": {
+   "file": "guddu-side-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-w3": {
+   "file": "guddu-side-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "gulab-down-w0": {
+   "file": "gulab-down-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-down-w1": {
+   "file": "gulab-down-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-down-w2": {
+   "file": "gulab-down-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-down-w3": {
+   "file": "gulab-down-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-w0": {
+   "file": "gulab-up-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-w1": {
+   "file": "gulab-up-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-w2": {
+   "file": "gulab-up-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-w3": {
+   "file": "gulab-up-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-w0": {
+   "file": "gulab-side-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-w1": {
+   "file": "gulab-side-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-w2": {
+   "file": "gulab-side-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-w3": {
+   "file": "gulab-side-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-w0": {
+   "file": "kishore-down-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-w1": {
+   "file": "kishore-down-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-w2": {
+   "file": "kishore-down-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-w3": {
+   "file": "kishore-down-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-w0": {
+   "file": "kishore-up-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-w1": {
+   "file": "kishore-up-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-w2": {
+   "file": "kishore-up-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-w3": {
+   "file": "kishore-up-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-w0": {
+   "file": "kishore-side-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-w1": {
+   "file": "kishore-side-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-w2": {
+   "file": "kishore-side-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-w3": {
+   "file": "kishore-side-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "meera-down-w0": {
+   "file": "meera-down-w0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-down-w1": {
+   "file": "meera-down-w1.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-down-w2": {
+   "file": "meera-down-w2.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-down-w3": {
+   "file": "meera-down-w3.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-w0": {
+   "file": "meera-up-w0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-w1": {
+   "file": "meera-up-w1.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-w2": {
+   "file": "meera-up-w2.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-w3": {
+   "file": "meera-up-w3.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-w0": {
+   "file": "meera-side-w0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-w1": {
+   "file": "meera-side-w1.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-w2": {
+   "file": "meera-side-w2.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-w3": {
+   "file": "meera-side-w3.png",
+   "w": 20,
+   "h": 31
+  },
+  "mistry-down-0": {
+   "file": "mistry-down-0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-w0": {
+   "file": "mistry-down-w0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-w1": {
+   "file": "mistry-down-w1.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-w2": {
+   "file": "mistry-down-w2.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-w3": {
+   "file": "mistry-down-w3.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-0": {
+   "file": "mistry-up-0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-w0": {
+   "file": "mistry-up-w0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-w1": {
+   "file": "mistry-up-w1.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-w2": {
+   "file": "mistry-up-w2.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-w3": {
+   "file": "mistry-up-w3.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-0": {
+   "file": "mistry-side-0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-w0": {
+   "file": "mistry-side-w0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-w1": {
+   "file": "mistry-side-w1.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-w2": {
+   "file": "mistry-side-w2.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-w3": {
+   "file": "mistry-side-w3.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-1": {
+   "file": "mistry-down-1.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-face": {
+   "file": "mistry-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "pinky-down-0": {
+   "file": "pinky-down-0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-0": {
+   "file": "pinky-up-0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-0": {
+   "file": "pinky-side-0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-down-1": {
+   "file": "pinky-down-1.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-face": {
+   "file": "pinky-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "sarpanch-up-w0": {
+   "file": "sarpanch-up-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-up-w1": {
+   "file": "sarpanch-up-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-up-w2": {
+   "file": "sarpanch-up-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-up-w3": {
+   "file": "sarpanch-up-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-w0": {
+   "file": "sarpanch-side-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-w1": {
+   "file": "sarpanch-side-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-w2": {
+   "file": "sarpanch-side-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-w3": {
+   "file": "sarpanch-side-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "savita-down-w0": {
+   "file": "savita-down-w0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-down-w1": {
+   "file": "savita-down-w1.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-down-w2": {
+   "file": "savita-down-w2.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-down-w3": {
+   "file": "savita-down-w3.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-w0": {
+   "file": "savita-up-w0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-w1": {
+   "file": "savita-up-w1.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-w2": {
+   "file": "savita-up-w2.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-w3": {
+   "file": "savita-up-w3.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-w0": {
+   "file": "savita-side-w0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-w1": {
+   "file": "savita-side-w1.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-w2": {
+   "file": "savita-side-w2.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-w3": {
+   "file": "savita-side-w3.png",
+   "w": 18,
+   "h": 29
+  },
+  "chintu-down-w0": {
+   "file": "chintu-down-w0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-down-w1": {
+   "file": "chintu-down-w1.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-down-w2": {
+   "file": "chintu-down-w2.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-down-w3": {
+   "file": "chintu-down-w3.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-w0": {
+   "file": "chintu-up-w0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-w1": {
+   "file": "chintu-up-w1.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-w2": {
+   "file": "chintu-up-w2.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-w3": {
+   "file": "chintu-up-w3.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-w0": {
+   "file": "chintu-side-w0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-w1": {
+   "file": "chintu-side-w1.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-w2": {
+   "file": "chintu-side-w2.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-w3": {
+   "file": "chintu-side-w3.png",
+   "w": 16,
+   "h": 30
+  },
+  "pinky-down-w0": {
+   "file": "pinky-down-w0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-down-w1": {
+   "file": "pinky-down-w1.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-down-w2": {
+   "file": "pinky-down-w2.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-down-w3": {
+   "file": "pinky-down-w3.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-w0": {
+   "file": "pinky-up-w0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-w1": {
+   "file": "pinky-up-w1.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-w2": {
+   "file": "pinky-up-w2.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-w3": {
+   "file": "pinky-up-w3.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-w0": {
+   "file": "pinky-side-w0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-w1": {
+   "file": "pinky-side-w1.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-w2": {
+   "file": "pinky-side-w2.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-w3": {
+   "file": "pinky-side-w3.png",
+   "w": 23,
+   "h": 31
+  },
+  "sarpanch-down-w0": {
+   "file": "sarpanch-down-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-down-w1": {
+   "file": "sarpanch-down-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-down-w2": {
+   "file": "sarpanch-down-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-down-w3": {
+   "file": "sarpanch-down-w3.png",
+   "w": 17,
+   "h": 31
+  }
+ },
+ "ground": {
+  "file": "ground.png",
+  "tile": 16,
+  "frames": {
+   "1101": [
+    0,
+    0
+   ],
+   "1010": [
+    16,
+    0
+   ],
+   "0100": [
+    32,
+    0
+   ],
+   "1100": [
+    48,
+    0
+   ],
+   "0110": [
+    0,
+    16
+   ],
+   "1000": [
+    16,
+    16
+   ],
+   "0000": [
+    32,
+    16
+   ],
+   "0001": [
+    48,
+    16
+   ],
+   "1011": [
+    0,
+    32
+   ],
+   "0011": [
+    16,
+    32
+   ],
+   "0010": [
+    32,
+    32
+   ],
+   "0101": [
+    48,
+    32
+   ],
+   "1111": [
+    0,
+    48
+   ],
+   "1110": [
+    16,
+    48
+   ],
+   "1001": [
+    32,
+    48
+   ],
+   "0111": [
+    48,
+    48
+   ]
+  }
+ },
+ "water": {
+  "file": "water.png",
+  "tile": 16,
+  "frames": {
+   "1101": [
+    0,
+    0
+   ],
+   "1010": [
+    16,
+    0
+   ],
+   "0100": [
+    32,
+    0
+   ],
+   "1100": [
+    48,
+    0
+   ],
+   "0110": [
+    0,
+    16
+   ],
+   "1000": [
+    16,
+    16
+   ],
+   "0000": [
+    32,
+    16
+   ],
+   "0001": [
+    48,
+    16
+   ],
+   "1011": [
+    0,
+    32
+   ],
+   "0011": [
+    16,
+    32
+   ],
+   "0010": [
+    32,
+    32
+   ],
+   "0101": [
+    48,
+    32
+   ],
+   "1111": [
+    0,
+    48
+   ],
+   "1110": [
+    16,
+    48
+   ],
+   "1001": [
+    32,
+    48
+   ],
+   "0111": [
+    48,
+    48
+   ]
+  }
+ },
+ "soil": {
+  "file": "soil.png",
+  "tile": 16,
+  "frames": {
+   "1101": [
+    0,
+    0
+   ],
+   "1010": [
+    16,
+    0
+   ],
+   "0100": [
+    32,
+    0
+   ],
+   "1100": [
+    48,
+    0
+   ],
+   "0110": [
+    0,
+    16
+   ],
+   "1000": [
+    16,
+    16
+   ],
+   "0000": [
+    32,
+    16
+   ],
+   "0001": [
+    48,
+    16
+   ],
+   "1011": [
+    0,
+    32
+   ],
+   "0011": [
+    16,
+    32
+   ],
+   "0010": [
+    32,
+    32
+   ],
+   "0101": [
+    48,
+    32
+   ],
+   "1111": [
+    0,
+    48
+   ],
+   "1110": [
+    16,
+    48
+   ],
+   "1001": [
+    32,
+    48
+   ],
+   "0111": [
+    48,
+    48
+   ]
+  }
+ }
+}
