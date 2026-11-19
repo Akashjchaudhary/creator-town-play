@@ -1,0 +1,4146 @@
+{
+ "images": {
+  "house-studio": {
+   "file": "house-studio.png",
+   "w": 81,
+   "h": 78
+  },
+  "house-creator": {
+   "file": "house-creator.png",
+   "w": 88,
+   "h": 85
+  },
+  "house-n1": {
+   "file": "house-n1.png",
+   "w": 32,
+   "h": 36
+  },
+  "house-n2": {
+   "file": "house-n2.png",
+   "w": 36,
+   "h": 32
+  },
+  "house-n3": {
+   "file": "house-n3.png",
+   "w": 39,
+   "h": 34
+  },
+  "tree": {
+   "file": "tree.png",
+   "w": 28,
+   "h": 40
+  },
+  "easel": {
+   "file": "easel.png",
+   "w": 19,
+   "h": 31
+  },
+  "studio": {
+   "file": "studio.png",
+   "w": 116,
+   "h": 111
+  },
+  "store": {
+   "file": "store.png",
+   "w": 77,
+   "h": 69
+  },
+  "chai": {
+   "file": "chai.png",
+   "w": 54,
+   "h": 52
+  },
+  "bus": {
+   "file": "bus.png",
+   "w": 84,
+   "h": 45
+  },
+  "banyan": {
+   "file": "banyan.png",
+   "w": 80,
+   "h": 86
+  },
+  "noticeboard": {
+   "file": "noticeboard.png",
+   "w": 26,
+   "h": 34
+  },
+  "player-down-0": {
+   "file": "player-down-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-down-w0": {
+   "file": "player-down-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-down-w1": {
+   "file": "player-down-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-down-w2": {
+   "file": "player-down-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-down-w3": {
+   "file": "player-down-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-0": {
+   "file": "player-up-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-w0": {
+   "file": "player-up-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-w1": {
+   "file": "player-up-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-w2": {
+   "file": "player-up-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-up-w3": {
+   "file": "player-up-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-0": {
+   "file": "player-side-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-w0": {
+   "file": "player-side-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-w1": {
+   "file": "player-side-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-w2": {
+   "file": "player-side-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "player-side-w3": {
+   "file": "player-side-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "meera-down-0": {
+   "file": "meera-down-0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-0": {
+   "file": "meera-up-0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-0": {
+   "file": "meera-side-0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-down-1": {
+   "file": "meera-down-1.png",
+   "w": 20,
+   "h": 31
+  },
+  "guddu-down-0": {
+   "file": "guddu-down-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-0": {
+   "file": "guddu-up-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-0": {
+   "file": "guddu-side-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-down-1": {
+   "file": "guddu-down-1.png",
+   "w": 18,
+   "h": 31
+  },
+  "sarpanch-down-0": {
+   "file": "sarpanch-down-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-up-0": {
+   "file": "sarpanch-up-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-0": {
+   "file": "sarpanch-side-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-down-1": {
+   "file": "sarpanch-down-1.png",
+   "w": 17,
+   "h": 31
+  },
+  "kishore-down-0": {
+   "file": "kishore-down-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-0": {
+   "file": "kishore-up-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-0": {
+   "file": "kishore-side-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-1": {
+   "file": "kishore-down-1.png",
+   "w": 19,
+   "h": 31
+  },
+  "savita-down-0": {
+   "file": "savita-down-0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-0": {
+   "file": "savita-up-0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-0": {
+   "file": "savita-side-0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-down-1": {
+   "file": "savita-down-1.png",
+   "w": 18,
+   "h": 29
+  },
+  "gulab-down-0": {
+   "file": "gulab-down-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-0": {
+   "file": "gulab-up-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-0": {
+   "file": "gulab-side-0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-down-1": {
+   "file": "gulab-down-1.png",
+   "w": 19,
+   "h": 31
+  },
+  "bhagwat-down-0": {
+   "file": "bhagwat-down-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-0": {
+   "file": "bhagwat-up-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-0": {
+   "file": "bhagwat-side-0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-down-1": {
+   "file": "bhagwat-down-1.png",
+   "w": 18,
+   "h": 31
+  },
+  "player-face": {
+   "file": "player-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "meera-face": {
+   "file": "meera-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "guddu-face": {
+   "file": "guddu-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "sarpanch-face": {
+   "file": "sarpanch-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "kishore-face": {
+   "file": "kishore-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "savita-face": {
+   "file": "savita-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "gulab-face": {
+   "file": "gulab-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "bhagwat-face": {
+   "file": "bhagwat-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "bench": {
+   "file": "bench.png",
+   "w": 28,
+   "h": 20
+  },
+  "boat": {
+   "file": "boat.png",
+   "w": 46,
+   "h": 18
+  },
+  "bridge-broken": {
+   "file": "bridge-broken.png",
+   "w": 53,
+   "h": 27
+  },
+  "bridge-fixed": {
+   "file": "bridge-fixed.png",
+   "w": 57,
+   "h": 42
+  },
+  "buffalo": {
+   "file": "buffalo.png",
+   "w": 42,
+   "h": 27
+  },
+  "bush-1": {
+   "file": "bush-1.png",
+   "w": 26,
+   "h": 26
+  },
+  "bush-2": {
+   "file": "bush-2.png",
+   "w": 26,
+   "h": 24
+  },
+  "cart": {
+   "file": "cart.png",
+   "w": 48,
+   "h": 23
+  },
+  "cat": {
+   "file": "cat.png",
+   "w": 20,
+   "h": 27
+  },
+  "charpai": {
+   "file": "charpai.png",
+   "w": 42,
+   "h": 28
+  },
+  "clothesline": {
+   "file": "clothesline.png",
+   "w": 54,
+   "h": 32
+  },
+  "cowshed": {
+   "file": "cowshed.png",
+   "w": 65,
+   "h": 61
+  },
+  "crate-old": {
+   "file": "crate-old.png",
+   "w": 28,
+   "h": 26
+  },
+  "crop-mustard": {
+   "file": "crop-mustard.png",
+   "w": 28,
+   "h": 29
+  },
+  "crop-wheat": {
+   "file": "crop-wheat.png",
+   "w": 37,
+   "h": 38
+  },
+  "cycle": {
+   "file": "cycle.png",
+   "w": 40,
+   "h": 23
+  },
+  "dhaba": {
+   "file": "dhaba.png",
+   "w": 85,
+   "h": 71
+  },
+  "dog": {
+   "file": "dog.png",
+   "w": 25,
+   "h": 29
+  },
+  "farmhouse": {
+   "file": "farmhouse.png",
+   "w": 75,
+   "h": 68
+  },
+  "flowers-1": {
+   "file": "flowers-1.png",
+   "w": 26,
+   "h": 26
+  },
+  "goat": {
+   "file": "goat.png",
+   "w": 26,
+   "h": 28
+  },
+  "handcart": {
+   "file": "handcart.png",
+   "w": 51,
+   "h": 41
+  },
+  "handpump": {
+   "file": "handpump.png",
+   "w": 25,
+   "h": 34
+  },
+  "haystack": {
+   "file": "haystack.png",
+   "w": 38,
+   "h": 32
+  },
+  "hedge": {
+   "file": "hedge.png",
+   "w": 48,
+   "h": 25
+  },
+  "hen": {
+   "file": "hen.png",
+   "w": 22,
+   "h": 27
+  },
+  "i-axe": {
+   "file": "i-axe.png",
+   "w": 30,
+   "h": 30
+  },
+  "i-bag": {
+   "file": "i-bag.png",
+   "w": 24,
+   "h": 24
+  },
+  "i-cap": {
+   "file": "i-cap.png",
+   "w": 22,
+   "h": 22
+  },
+  "i-chai": {
+   "file": "i-chai.png",
+   "w": 25,
+   "h": 25
+  },
+  "i-clip": {
+   "file": "i-clip.png",
+   "w": 19,
+   "h": 19
+  },
+  "i-feather": {
+   "file": "i-feather.png",
+   "w": 28,
+   "h": 28
+  },
+  "i-fibre": {
+   "file": "i-fibre.png",
+   "w": 24,
+   "h": 24
+  },
+  "i-hammer": {
+   "file": "i-hammer.png",
+   "w": 28,
+   "h": 28
+  },
+  "i-laddoo": {
+   "file": "i-laddoo.png",
+   "w": 30,
+   "h": 30
+  },
+  "i-mango": {
+   "file": "i-mango.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-marigold": {
+   "file": "i-marigold.png",
+   "w": 25,
+   "h": 25
+  },
+  "i-milk": {
+   "file": "i-milk.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-paints": {
+   "file": "i-paints.png",
+   "w": 28,
+   "h": 28
+  },
+  "i-paper": {
+   "file": "i-paper.png",
+   "w": 30,
+   "h": 30
+  },
+  "i-peacock": {
+   "file": "i-peacock.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-phone": {
+   "file": "i-phone.png",
+   "w": 29,
+   "h": 29
+  },
+  "i-photo": {
+   "file": "i-photo.png",
+   "w": 22,
+   "h": 22
+  },
+  "i-poster": {
+   "file": "i-poster.png",
+   "w": 24,
+   "h": 24
+  },
+  "i-prop": {
+   "file": "i-prop.png",
+   "w": 20,
+   "h": 20
+  },
+  "i-scrap": {
+   "file": "i-scrap.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-shawl": {
+   "file": "i-shawl.png",
+   "w": 32,
+   "h": 32
+  },
+  "i-sickle": {
+   "file": "i-sickle.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-tape": {
+   "file": "i-tape.png",
+   "w": 30,
+   "h": 30
+  },
+  "i-ticket": {
+   "file": "i-ticket.png",
+   "w": 20,
+   "h": 20
+  },
+  "i-wood": {
+   "file": "i-wood.png",
+   "w": 28,
+   "h": 28
+  },
+  "jeep": {
+   "file": "jeep.png",
+   "w": 55,
+   "h": 39
+  },
+  "junk": {
+   "file": "junk.png",
+   "w": 31,
+   "h": 21
+  },
+  "kingfisher": {
+   "file": "kingfisher.png",
+   "w": 20,
+   "h": 28
+  },
+  "lamp": {
+   "file": "lamp.png",
+   "w": 16,
+   "h": 52
+  },
+  "log": {
+   "file": "log.png",
+   "w": 34,
+   "h": 26
+  },
+  "lotus": {
+   "file": "lotus.png",
+   "w": 29,
+   "h": 28
+  },
+  "mela-gate": {
+   "file": "mela-gate.png",
+   "w": 90,
+   "h": 60
+  },
+  "milestone": {
+   "file": "milestone.png",
+   "w": 24,
+   "h": 28
+  },
+  "mistry-shed": {
+   "file": "mistry-shed.png",
+   "w": 88,
+   "h": 64
+  },
+  "old-set": {
+   "file": "old-set.png",
+   "w": 63,
+   "h": 65
+  },
+  "peacock-bird": {
+   "file": "peacock-bird.png",
+   "w": 44,
+   "h": 36
+  },
+  "poster-post": {
+   "file": "poster-post.png",
+   "w": 24,
+   "h": 36
+  },
+  "pots": {
+   "file": "pots.png",
+   "w": 28,
+   "h": 27
+  },
+  "reeds": {
+   "file": "reeds.png",
+   "w": 24,
+   "h": 22
+  },
+  "rock-big": {
+   "file": "rock-big.png",
+   "w": 38,
+   "h": 33
+  },
+  "rock-small": {
+   "file": "rock-small.png",
+   "w": 18,
+   "h": 13
+  },
+  "room-nani": {
+   "file": "room-nani.png",
+   "w": 256,
+   "h": 256
+  },
+  "room-props": {
+   "file": "room-props.png",
+   "w": 256,
+   "h": 256
+  },
+  "room-studio": {
+   "file": "room-studio.png",
+   "w": 256,
+   "h": 256
+  },
+  "rubble": {
+   "file": "rubble.png",
+   "w": 36,
+   "h": 26
+  },
+  "scarecrow": {
+   "file": "scarecrow.png",
+   "w": 28,
+   "h": 46
+  },
+  "set-piece": {
+   "file": "set-piece.png",
+   "w": 24,
+   "h": 23
+  },
+  "shrine": {
+   "file": "shrine.png",
+   "w": 38,
+   "h": 50
+  },
+  "signpost": {
+   "file": "signpost.png",
+   "w": 27,
+   "h": 40
+  },
+  "stump": {
+   "file": "stump.png",
+   "w": 29,
+   "h": 19
+  },
+  "sugarcane": {
+   "file": "sugarcane.png",
+   "w": 36,
+   "h": 50
+  },
+  "tikku-shop": {
+   "file": "tikku-shop.png",
+   "w": 58,
+   "h": 46
+  },
+  "tree-dead": {
+   "file": "tree-dead.png",
+   "w": 44,
+   "h": 52
+  },
+  "tree-mango": {
+   "file": "tree-mango.png",
+   "w": 56,
+   "h": 66
+  },
+  "tree-neem": {
+   "file": "tree-neem.png",
+   "w": 32,
+   "h": 69
+  },
+  "tree-palm": {
+   "file": "tree-palm.png",
+   "w": 32,
+   "h": 62
+  },
+  "tulsi": {
+   "file": "tulsi.png",
+   "w": 23,
+   "h": 38
+  },
+  "water-tower": {
+   "file": "water-tower.png",
+   "w": 48,
+   "h": 98
+  },
+  "weed-1": {
+   "file": "weed-1.png",
+   "w": 27,
+   "h": 26
+  },
+  "weed-2": {
+   "file": "weed-2.png",
+   "w": 28,
+   "h": 30
+  },
+  "well": {
+   "file": "well.png",
+   "w": 37,
+   "h": 43
+  },
+  "bhagwat-down-w0": {
+   "file": "bhagwat-down-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-down-w1": {
+   "file": "bhagwat-down-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-down-w2": {
+   "file": "bhagwat-down-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-down-w3": {
+   "file": "bhagwat-down-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-w0": {
+   "file": "bhagwat-up-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-w1": {
+   "file": "bhagwat-up-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-w2": {
+   "file": "bhagwat-up-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-up-w3": {
+   "file": "bhagwat-up-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-w0": {
+   "file": "bhagwat-side-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-w1": {
+   "file": "bhagwat-side-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-w2": {
+   "file": "bhagwat-side-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "bhagwat-side-w3": {
+   "file": "bhagwat-side-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "chintu-down-0": {
+   "file": "chintu-down-0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-0": {
+   "file": "chintu-up-0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-0": {
+   "file": "chintu-side-0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-down-1": {
+   "file": "chintu-down-1.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-face": {
+   "file": "chintu-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "guddu-down-w0": {
+   "file": "guddu-down-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-down-w1": {
+   "file": "guddu-down-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-down-w2": {
+   "file": "guddu-down-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-down-w3": {
+   "file": "guddu-down-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-w0": {
+   "file": "guddu-up-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-w1": {
+   "file": "guddu-up-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-w2": {
+   "file": "guddu-up-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-up-w3": {
+   "file": "guddu-up-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-w0": {
+   "file": "guddu-side-w0.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-w1": {
+   "file": "guddu-side-w1.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-w2": {
+   "file": "guddu-side-w2.png",
+   "w": 18,
+   "h": 31
+  },
+  "guddu-side-w3": {
+   "file": "guddu-side-w3.png",
+   "w": 18,
+   "h": 31
+  },
+  "gulab-down-w0": {
+   "file": "gulab-down-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-down-w1": {
+   "file": "gulab-down-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-down-w2": {
+   "file": "gulab-down-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-down-w3": {
+   "file": "gulab-down-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-w0": {
+   "file": "gulab-up-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-w1": {
+   "file": "gulab-up-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-w2": {
+   "file": "gulab-up-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-up-w3": {
+   "file": "gulab-up-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-w0": {
+   "file": "gulab-side-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-w1": {
+   "file": "gulab-side-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-w2": {
+   "file": "gulab-side-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "gulab-side-w3": {
+   "file": "gulab-side-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-w0": {
+   "file": "kishore-down-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-w1": {
+   "file": "kishore-down-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-w2": {
+   "file": "kishore-down-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-down-w3": {
+   "file": "kishore-down-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-w0": {
+   "file": "kishore-up-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-w1": {
+   "file": "kishore-up-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-w2": {
+   "file": "kishore-up-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-up-w3": {
+   "file": "kishore-up-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-w0": {
+   "file": "kishore-side-w0.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-w1": {
+   "file": "kishore-side-w1.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-w2": {
+   "file": "kishore-side-w2.png",
+   "w": 19,
+   "h": 31
+  },
+  "kishore-side-w3": {
+   "file": "kishore-side-w3.png",
+   "w": 19,
+   "h": 31
+  },
+  "meera-down-w0": {
+   "file": "meera-down-w0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-down-w1": {
+   "file": "meera-down-w1.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-down-w2": {
+   "file": "meera-down-w2.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-down-w3": {
+   "file": "meera-down-w3.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-w0": {
+   "file": "meera-up-w0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-w1": {
+   "file": "meera-up-w1.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-w2": {
+   "file": "meera-up-w2.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-up-w3": {
+   "file": "meera-up-w3.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-w0": {
+   "file": "meera-side-w0.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-w1": {
+   "file": "meera-side-w1.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-w2": {
+   "file": "meera-side-w2.png",
+   "w": 20,
+   "h": 31
+  },
+  "meera-side-w3": {
+   "file": "meera-side-w3.png",
+   "w": 20,
+   "h": 31
+  },
+  "mistry-down-0": {
+   "file": "mistry-down-0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-w0": {
+   "file": "mistry-down-w0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-w1": {
+   "file": "mistry-down-w1.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-w2": {
+   "file": "mistry-down-w2.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-w3": {
+   "file": "mistry-down-w3.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-0": {
+   "file": "mistry-up-0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-w0": {
+   "file": "mistry-up-w0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-w1": {
+   "file": "mistry-up-w1.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-w2": {
+   "file": "mistry-up-w2.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-up-w3": {
+   "file": "mistry-up-w3.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-0": {
+   "file": "mistry-side-0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-w0": {
+   "file": "mistry-side-w0.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-w1": {
+   "file": "mistry-side-w1.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-w2": {
+   "file": "mistry-side-w2.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-side-w3": {
+   "file": "mistry-side-w3.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-down-1": {
+   "file": "mistry-down-1.png",
+   "w": 15,
+   "h": 29
+  },
+  "mistry-face": {
+   "file": "mistry-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "pinky-down-0": {
+   "file": "pinky-down-0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-0": {
+   "file": "pinky-up-0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-0": {
+   "file": "pinky-side-0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-down-1": {
+   "file": "pinky-down-1.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-face": {
+   "file": "pinky-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "sarpanch-up-w0": {
+   "file": "sarpanch-up-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-up-w1": {
+   "file": "sarpanch-up-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-up-w2": {
+   "file": "sarpanch-up-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-up-w3": {
+   "file": "sarpanch-up-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-w0": {
+   "file": "sarpanch-side-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-w1": {
+   "file": "sarpanch-side-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-w2": {
+   "file": "sarpanch-side-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-side-w3": {
+   "file": "sarpanch-side-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "savita-down-w0": {
+   "file": "savita-down-w0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-down-w1": {
+   "file": "savita-down-w1.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-down-w2": {
+   "file": "savita-down-w2.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-down-w3": {
+   "file": "savita-down-w3.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-w0": {
+   "file": "savita-up-w0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-w1": {
+   "file": "savita-up-w1.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-w2": {
+   "file": "savita-up-w2.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-up-w3": {
+   "file": "savita-up-w3.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-w0": {
+   "file": "savita-side-w0.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-w1": {
+   "file": "savita-side-w1.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-w2": {
+   "file": "savita-side-w2.png",
+   "w": 18,
+   "h": 29
+  },
+  "savita-side-w3": {
+   "file": "savita-side-w3.png",
+   "w": 18,
+   "h": 29
+  },
+  "chintu-down-w0": {
+   "file": "chintu-down-w0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-down-w1": {
+   "file": "chintu-down-w1.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-down-w2": {
+   "file": "chintu-down-w2.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-down-w3": {
+   "file": "chintu-down-w3.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-w0": {
+   "file": "chintu-up-w0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-w1": {
+   "file": "chintu-up-w1.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-w2": {
+   "file": "chintu-up-w2.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-up-w3": {
+   "file": "chintu-up-w3.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-w0": {
+   "file": "chintu-side-w0.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-w1": {
+   "file": "chintu-side-w1.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-w2": {
+   "file": "chintu-side-w2.png",
+   "w": 16,
+   "h": 30
+  },
+  "chintu-side-w3": {
+   "file": "chintu-side-w3.png",
+   "w": 16,
+   "h": 30
+  },
+  "pinky-down-w0": {
+   "file": "pinky-down-w0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-down-w1": {
+   "file": "pinky-down-w1.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-down-w2": {
+   "file": "pinky-down-w2.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-down-w3": {
+   "file": "pinky-down-w3.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-w0": {
+   "file": "pinky-up-w0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-w1": {
+   "file": "pinky-up-w1.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-w2": {
+   "file": "pinky-up-w2.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-up-w3": {
+   "file": "pinky-up-w3.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-w0": {
+   "file": "pinky-side-w0.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-w1": {
+   "file": "pinky-side-w1.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-w2": {
+   "file": "pinky-side-w2.png",
+   "w": 23,
+   "h": 31
+  },
+  "pinky-side-w3": {
+   "file": "pinky-side-w3.png",
+   "w": 23,
+   "h": 31
+  },
+  "sarpanch-down-w0": {
+   "file": "sarpanch-down-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-down-w1": {
+   "file": "sarpanch-down-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-down-w2": {
+   "file": "sarpanch-down-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "sarpanch-down-w3": {
+   "file": "sarpanch-down-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "bus-shelter": {
+   "file": "bus-shelter.png",
+   "w": 54,
+   "h": 52
+  },
+  "haat-stall": {
+   "file": "haat-stall.png",
+   "w": 46,
+   "h": 50
+  },
+  "hoarding-new": {
+   "file": "hoarding-new.png",
+   "w": 52,
+   "h": 62
+  },
+  "hoarding-old": {
+   "file": "hoarding-old.png",
+   "w": 57,
+   "h": 66
+  },
+  "mela-gate-fixed": {
+   "file": "mela-gate-fixed.png",
+   "w": 90,
+   "h": 60
+  },
+  "puncture-shop": {
+   "file": "puncture-shop.png",
+   "w": 62,
+   "h": 56
+  },
+  "stage-fixed": {
+   "file": "stage-fixed.png",
+   "w": 85,
+   "h": 73
+  },
+  "truck": {
+   "file": "truck.png",
+   "w": 84,
+   "h": 50
+  },
+  "tyres": {
+   "file": "tyres.png",
+   "w": 26,
+   "h": 25
+  },
+  "i-key": {
+   "file": "i-key.png",
+   "w": 32,
+   "h": 32
+  },
+  "antenna": {
+   "file": "antenna.png",
+   "w": 15,
+   "h": 69
+  },
+  "i-brush": {
+   "file": "i-brush.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-drive": {
+   "file": "i-drive.png",
+   "w": 26,
+   "h": 26
+  },
+  "i-script": {
+   "file": "i-script.png",
+   "w": 19,
+   "h": 19
+  },
+  "i-song": {
+   "file": "i-song.png",
+   "w": 32,
+   "h": 32
+  },
+  "i-tripod": {
+   "file": "i-tripod.png",
+   "w": 23,
+   "h": 23
+  },
+  "i-video": {
+   "file": "i-video.png",
+   "w": 32,
+   "h": 32
+  },
+  "room-back": {
+   "file": "room-back.png",
+   "w": 256,
+   "h": 256
+  },
+  "screen": {
+   "file": "screen.png",
+   "w": 69,
+   "h": 65
+  },
+  "tikku-shop-open": {
+   "file": "tikku-shop-open.png",
+   "w": 69,
+   "h": 62
+  },
+  "irfan-down-0": {
+   "file": "irfan-down-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-down-w0": {
+   "file": "irfan-down-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-down-w1": {
+   "file": "irfan-down-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-down-w2": {
+   "file": "irfan-down-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-down-w3": {
+   "file": "irfan-down-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-up-0": {
+   "file": "irfan-up-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-up-w0": {
+   "file": "irfan-up-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-up-w1": {
+   "file": "irfan-up-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-up-w2": {
+   "file": "irfan-up-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-up-w3": {
+   "file": "irfan-up-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-side-0": {
+   "file": "irfan-side-0.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-side-w0": {
+   "file": "irfan-side-w0.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-side-w1": {
+   "file": "irfan-side-w1.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-side-w2": {
+   "file": "irfan-side-w2.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-side-w3": {
+   "file": "irfan-side-w3.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-down-1": {
+   "file": "irfan-down-1.png",
+   "w": 17,
+   "h": 31
+  },
+  "irfan-face": {
+   "file": "irfan-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "rhea-down-0": {
+   "file": "rhea-down-0.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-down-w0": {
+   "file": "rhea-down-w0.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-down-w1": {
+   "file": "rhea-down-w1.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-down-w2": {
+   "file": "rhea-down-w2.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-down-w3": {
+   "file": "rhea-down-w3.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-up-0": {
+   "file": "rhea-up-0.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-up-w0": {
+   "file": "rhea-up-w0.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-up-w1": {
+   "file": "rhea-up-w1.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-up-w2": {
+   "file": "rhea-up-w2.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-up-w3": {
+   "file": "rhea-up-w3.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-side-0": {
+   "file": "rhea-side-0.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-side-w0": {
+   "file": "rhea-side-w0.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-side-w1": {
+   "file": "rhea-side-w1.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-side-w2": {
+   "file": "rhea-side-w2.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-side-w3": {
+   "file": "rhea-side-w3.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-down-1": {
+   "file": "rhea-down-1.png",
+   "w": 14,
+   "h": 29
+  },
+  "rhea-face": {
+   "file": "rhea-face.png",
+   "w": 64,
+   "h": 64
+  },
+  "tikku-down-0": {
+   "file": "tikku-down-0.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-down-w0": {
+   "file": "tikku-down-w0.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-down-w1": {
+   "file": "tikku-down-w1.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-down-w2": {
+   "file": "tikku-down-w2.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-down-w3": {
+   "file": "tikku-down-w3.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-up-0": {
+   "file": "tikku-up-0.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-up-w0": {
+   "file": "tikku-up-w0.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-up-w1": {
+   "file": "tikku-up-w1.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-up-w2": {
+   "file": "tikku-up-w2.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-up-w3": {
+   "file": "tikku-up-w3.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-side-0": {
+   "file": "tikku-side-0.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-side-w0": {
+   "file": "tikku-side-w0.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-side-w1": {
+   "file": "tikku-side-w1.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-side-w2": {
+   "file": "tikku-side-w2.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-side-w3": {
+   "file": "tikku-side-w3.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-down-1": {
+   "file": "tikku-down-1.png",
+   "w": 17,
+   "h": 29
+  },
+  "tikku-face": {
+   "file": "tikku-face.png",
+   "w": 64,
+   "h": 64
+  }
+ },
+ "ground": {
+  "file": "ground.png",
+  "tile": 16,
+  "frames": {
+   "1101": [
+    0,
+    0
+   ],
+   "1010": [
+    16,
+    0
+   ],
+   "0100": [
+    32,
+    0
+   ],
+   "1100": [
+    48,
+    0
+   ],
+   "0110": [
+    0,
+    16
+   ],
+   "1000": [
+    16,
+    16
+   ],
+   "0000": [
+    32,
+    16
+   ],
+   "0001": [
+    48,
+    16
+   ],
+   "1011": [
+    0,
+    32
+   ],
+   "0011": [
+    16,
+    32
+   ],
+   "0010": [
+    32,
+    32
+   ],
+   "0101": [
+    48,
+    32
+   ],
+   "1111": [
+    0,
+    48
+   ],
+   "1110": [
+    16,
+    48
+   ],
+   "1001": [
+    32,
+    48
+   ],
+   "0111": [
+    48,
+    48
+   ]
+  }
+ },
+ "water": {
+  "file": "water.png",
+  "tile": 16,
+  "frames": {
+   "1101": [
+    0,
+    0
+   ],
+   "1010": [
+    16,
+    0
+   ],
+   "0100": [
+    32,
+    0
+   ],
+   "1100": [
+    48,
+    0
+   ],
+   "0110": [
+    0,
+    16
+   ],
+   "1000": [
+    16,
+    16
+   ],
+   "0000": [
+    32,
+    16
+   ],
+   "0001": [
+    48,
+    16
+   ],
+   "1011": [
+    0,
+    32
+   ],
+   "0011": [
+    16,
+    32
+   ],
+   "0010": [
+    32,
+    32
+   ],
+   "0101": [
+    48,
+    32
+   ],
+   "1111": [
+    0,
+    48
+   ],
+   "1110": [
+    16,
+    48
+   ],
+   "1001": [
+    32,
+    48
+   ],
+   "0111": [
+    48,
+    48
+   ]
+  }
+ },
+ "soil": {
+  "file": "soil.png",
+  "tile": 16,
+  "frames": {
+   "1101": [
+    0,
+    0
+   ],
+   "1010": [
+    16,
+    0
+   ],
+   "0100": [
+    32,
+    0
+   ],
+   "1100": [
+    48,
+    0
+   ],
+   "0110": [
+    0,
+    16
+   ],
+   "1000": [
+    16,
+    16
+   ],
+   "0000": [
+    32,
+    16
+   ],
+   "0001": [
+    48,
+    16
+   ],
+   "1011": [
+    0,
+    32
+   ],
+   "0011": [
+    16,
+    32
+   ],
+   "0010": [
+    32,
+    32
+   ],
+   "0101": [
+    48,
+    32
+   ],
+   "1111": [
+    0,
+    48
+   ],
+   "1110": [
+    16,
+    48
+   ],
+   "1001": [
+    32,
+    48
+   ],
+   "0111": [
+    48,
+    48
+   ]
+  }
+ },
+ "pack": {
+  "file": "pack.png",
+  "frames": {
+   "room-nani": [
+    0,
+    0,
+    256,
+    256
+   ],
+   "room-props": [
+    258,
+    0,
+    256,
+    256
+   ],
+   "room-studio": [
+    516,
+    0,
+    256,
+    256
+   ],
+   "room-back": [
+    774,
+    0,
+    256,
+    256
+   ],
+   "studio": [
+    1032,
+    0,
+    116,
+    111
+   ],
+   "water-tower": [
+    1150,
+    0,
+    48,
+    98
+   ],
+   "banyan": [
+    1200,
+    0,
+    80,
+    86
+   ],
+   "house-creator": [
+    1282,
+    0,
+    88,
+    85
+   ],
+   "house-studio": [
+    1372,
+    0,
+    81,
+    78
+   ],
+   "stage-fixed": [
+    1455,
+    0,
+    85,
+    73
+   ],
+   "dhaba": [
+    1542,
+    0,
+    85,
+    71
+   ],
+   "store": [
+    1629,
+    0,
+    77,
+    69
+   ],
+   "tree-neem": [
+    1708,
+    0,
+    32,
+    69
+   ],
+   "antenna": [
+    1742,
+    0,
+    15,
+    69
+   ],
+   "farmhouse": [
+    1759,
+    0,
+    75,
+    68
+   ],
+   "hoarding-old": [
+    1836,
+    0,
+    57,
+    66
+   ],
+   "tree-mango": [
+    1895,
+    0,
+    56,
+    66
+   ],
+   "screen": [
+    1953,
+    0,
+    69,
+    65
+   ],
+   "old-set": [
+    0,
+    258,
+    63,
+    65
+   ],
+   "mistry-shed": [
+    65,
+    258,
+    88,
+    64
+   ],
+   "player-face": [
+    155,
+    258,
+    64,
+    64
+   ],
+   "meera-face": [
+    221,
+    258,
+    64,
+    64
+   ],
+   "guddu-face": [
+    287,
+    258,
+    64,
+    64
+   ],
+   "sarpanch-face": [
+    353,
+    258,
+    64,
+    64
+   ],
+   "kishore-face": [
+    419,
+    258,
+    64,
+    64
+   ],
+   "savita-face": [
+    485,
+    258,
+    64,
+    64
+   ],
+   "gulab-face": [
+    551,
+    258,
+    64,
+    64
+   ],
+   "bhagwat-face": [
+    617,
+    258,
+    64,
+    64
+   ],
+   "chintu-face": [
+    683,
+    258,
+    64,
+    64
+   ],
+   "mistry-face": [
+    749,
+    258,
+    64,
+    64
+   ],
+   "pinky-face": [
+    815,
+    258,
+    64,
+    64
+   ],
+   "irfan-face": [
+    881,
+    258,
+    64,
+    64
+   ],
+   "rhea-face": [
+    947,
+    258,
+    64,
+    64
+   ],
+   "tikku-face": [
+    1013,
+    258,
+    64,
+    64
+   ],
+   "tikku-shop-open": [
+    1079,
+    258,
+    69,
+    62
+   ],
+   "hoarding-new": [
+    1150,
+    258,
+    52,
+    62
+   ],
+   "tree-palm": [
+    1204,
+    258,
+    32,
+    62
+   ],
+   "cowshed": [
+    1238,
+    258,
+    65,
+    61
+   ],
+   "mela-gate": [
+    1305,
+    258,
+    90,
+    60
+   ],
+   "mela-gate-fixed": [
+    1397,
+    258,
+    90,
+    60
+   ],
+   "puncture-shop": [
+    1489,
+    258,
+    62,
+    56
+   ],
+   "chai": [
+    1553,
+    258,
+    54,
+    52
+   ],
+   "bus-shelter": [
+    1609,
+    258,
+    54,
+    52
+   ],
+   "tree-dead": [
+    1665,
+    258,
+    44,
+    52
+   ],
+   "lamp": [
+    1711,
+    258,
+    16,
+    52
+   ],
+   "truck": [
+    1729,
+    258,
+    84,
+    50
+   ],
+   "haat-stall": [
+    1815,
+    258,
+    46,
+    50
+   ],
+   "shrine": [
+    1863,
+    258,
+    38,
+    50
+   ],
+   "sugarcane": [
+    1903,
+    258,
+    36,
+    50
+   ],
+   "tikku-shop": [
+    1941,
+    258,
+    58,
+    46
+   ],
+   "scarecrow": [
+    2001,
+    258,
+    28,
+    46
+   ],
+   "bus": [
+    0,
+    325,
+    84,
+    45
+   ],
+   "well": [
+    86,
+    325,
+    37,
+    43
+   ],
+   "bridge-fixed": [
+    125,
+    325,
+    57,
+    42
+   ],
+   "handcart": [
+    184,
+    325,
+    51,
+    41
+   ],
+   "tree": [
+    237,
+    325,
+    28,
+    40
+   ],
+   "signpost": [
+    267,
+    325,
+    27,
+    40
+   ],
+   "jeep": [
+    296,
+    325,
+    55,
+    39
+   ],
+   "crop-wheat": [
+    353,
+    325,
+    37,
+    38
+   ],
+   "tulsi": [
+    392,
+    325,
+    23,
+    38
+   ],
+   "peacock-bird": [
+    417,
+    325,
+    44,
+    36
+   ],
+   "house-n1": [
+    463,
+    325,
+    32,
+    36
+   ],
+   "poster-post": [
+    497,
+    325,
+    24,
+    36
+   ],
+   "house-n3": [
+    523,
+    325,
+    39,
+    34
+   ],
+   "noticeboard": [
+    564,
+    325,
+    26,
+    34
+   ],
+   "handpump": [
+    592,
+    325,
+    25,
+    34
+   ],
+   "rock-big": [
+    619,
+    325,
+    38,
+    33
+   ],
+   "clothesline": [
+    659,
+    325,
+    54,
+    32
+   ],
+   "haystack": [
+    715,
+    325,
+    38,
+    32
+   ],
+   "house-n2": [
+    755,
+    325,
+    36,
+    32
+   ],
+   "i-shawl": [
+    793,
+    325,
+    32,
+    32
+   ],
+   "i-key": [
+    827,
+    325,
+    32,
+    32
+   ],
+   "i-song": [
+    861,
+    325,
+    32,
+    32
+   ],
+   "i-video": [
+    895,
+    325,
+    32,
+    32
+   ],
+   "pinky-down-0": [
+    929,
+    325,
+    23,
+    31
+   ],
+   "pinky-up-0": [
+    954,
+    325,
+    23,
+    31
+   ],
+   "pinky-side-0": [
+    979,
+    325,
+    23,
+    31
+   ],
+   "pinky-down-1": [
+    1004,
+    325,
+    23,
+    31
+   ],
+   "pinky-down-w0": [
+    1029,
+    325,
+    23,
+    31
+   ],
+   "pinky-down-w1": [
+    1054,
+    325,
+    23,
+    31
+   ],
+   "pinky-down-w2": [
+    1079,
+    325,
+    23,
+    31
+   ],
+   "pinky-down-w3": [
+    1104,
+    325,
+    23,
+    31
+   ],
+   "pinky-up-w0": [
+    1129,
+    325,
+    23,
+    31
+   ],
+   "pinky-up-w1": [
+    1154,
+    325,
+    23,
+    31
+   ],
+   "pinky-up-w2": [
+    1179,
+    325,
+    23,
+    31
+   ],
+   "pinky-up-w3": [
+    1204,
+    325,
+    23,
+    31
+   ],
+   "pinky-side-w0": [
+    1229,
+    325,
+    23,
+    31
+   ],
+   "pinky-side-w1": [
+    1254,
+    325,
+    23,
+    31
+   ],
+   "pinky-side-w2": [
+    1279,
+    325,
+    23,
+    31
+   ],
+   "pinky-side-w3": [
+    1304,
+    325,
+    23,
+    31
+   ],
+   "meera-down-0": [
+    1329,
+    325,
+    20,
+    31
+   ],
+   "meera-up-0": [
+    1351,
+    325,
+    20,
+    31
+   ],
+   "meera-side-0": [
+    1373,
+    325,
+    20,
+    31
+   ],
+   "meera-down-1": [
+    1395,
+    325,
+    20,
+    31
+   ],
+   "meera-down-w0": [
+    1417,
+    325,
+    20,
+    31
+   ],
+   "meera-down-w1": [
+    1439,
+    325,
+    20,
+    31
+   ],
+   "meera-down-w2": [
+    1461,
+    325,
+    20,
+    31
+   ],
+   "meera-down-w3": [
+    1483,
+    325,
+    20,
+    31
+   ],
+   "meera-up-w0": [
+    1505,
+    325,
+    20,
+    31
+   ],
+   "meera-up-w1": [
+    1527,
+    325,
+    20,
+    31
+   ],
+   "meera-up-w2": [
+    1549,
+    325,
+    20,
+    31
+   ],
+   "meera-up-w3": [
+    1571,
+    325,
+    20,
+    31
+   ],
+   "meera-side-w0": [
+    1593,
+    325,
+    20,
+    31
+   ],
+   "meera-side-w1": [
+    1615,
+    325,
+    20,
+    31
+   ],
+   "meera-side-w2": [
+    1637,
+    325,
+    20,
+    31
+   ],
+   "meera-side-w3": [
+    1659,
+    325,
+    20,
+    31
+   ],
+   "easel": [
+    1681,
+    325,
+    19,
+    31
+   ],
+   "kishore-down-0": [
+    1702,
+    325,
+    19,
+    31
+   ],
+   "kishore-up-0": [
+    1723,
+    325,
+    19,
+    31
+   ],
+   "kishore-side-0": [
+    1744,
+    325,
+    19,
+    31
+   ],
+   "kishore-down-1": [
+    1765,
+    325,
+    19,
+    31
+   ],
+   "gulab-down-0": [
+    1786,
+    325,
+    19,
+    31
+   ],
+   "gulab-up-0": [
+    1807,
+    325,
+    19,
+    31
+   ],
+   "gulab-side-0": [
+    1828,
+    325,
+    19,
+    31
+   ],
+   "gulab-down-1": [
+    1849,
+    325,
+    19,
+    31
+   ],
+   "gulab-down-w0": [
+    1870,
+    325,
+    19,
+    31
+   ],
+   "gulab-down-w1": [
+    1891,
+    325,
+    19,
+    31
+   ],
+   "gulab-down-w2": [
+    1912,
+    325,
+    19,
+    31
+   ],
+   "gulab-down-w3": [
+    1933,
+    325,
+    19,
+    31
+   ],
+   "gulab-up-w0": [
+    1954,
+    325,
+    19,
+    31
+   ],
+   "gulab-up-w1": [
+    1975,
+    325,
+    19,
+    31
+   ],
+   "gulab-up-w2": [
+    1996,
+    325,
+    19,
+    31
+   ],
+   "gulab-up-w3": [
+    2017,
+    325,
+    19,
+    31
+   ],
+   "gulab-side-w0": [
+    0,
+    372,
+    19,
+    31
+   ],
+   "gulab-side-w1": [
+    21,
+    372,
+    19,
+    31
+   ],
+   "gulab-side-w2": [
+    42,
+    372,
+    19,
+    31
+   ],
+   "gulab-side-w3": [
+    63,
+    372,
+    19,
+    31
+   ],
+   "kishore-down-w0": [
+    84,
+    372,
+    19,
+    31
+   ],
+   "kishore-down-w1": [
+    105,
+    372,
+    19,
+    31
+   ],
+   "kishore-down-w2": [
+    126,
+    372,
+    19,
+    31
+   ],
+   "kishore-down-w3": [
+    147,
+    372,
+    19,
+    31
+   ],
+   "kishore-up-w0": [
+    168,
+    372,
+    19,
+    31
+   ],
+   "kishore-up-w1": [
+    189,
+    372,
+    19,
+    31
+   ],
+   "kishore-up-w2": [
+    210,
+    372,
+    19,
+    31
+   ],
+   "kishore-up-w3": [
+    231,
+    372,
+    19,
+    31
+   ],
+   "kishore-side-w0": [
+    252,
+    372,
+    19,
+    31
+   ],
+   "kishore-side-w1": [
+    273,
+    372,
+    19,
+    31
+   ],
+   "kishore-side-w2": [
+    294,
+    372,
+    19,
+    31
+   ],
+   "kishore-side-w3": [
+    315,
+    372,
+    19,
+    31
+   ],
+   "guddu-down-0": [
+    336,
+    372,
+    18,
+    31
+   ],
+   "guddu-up-0": [
+    356,
+    372,
+    18,
+    31
+   ],
+   "guddu-side-0": [
+    376,
+    372,
+    18,
+    31
+   ],
+   "guddu-down-1": [
+    396,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-down-0": [
+    416,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-up-0": [
+    436,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-side-0": [
+    456,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-down-1": [
+    476,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-down-w0": [
+    496,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-down-w1": [
+    516,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-down-w2": [
+    536,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-down-w3": [
+    556,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-up-w0": [
+    576,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-up-w1": [
+    596,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-up-w2": [
+    616,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-up-w3": [
+    636,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-side-w0": [
+    656,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-side-w1": [
+    676,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-side-w2": [
+    696,
+    372,
+    18,
+    31
+   ],
+   "bhagwat-side-w3": [
+    716,
+    372,
+    18,
+    31
+   ],
+   "guddu-down-w0": [
+    736,
+    372,
+    18,
+    31
+   ],
+   "guddu-down-w1": [
+    756,
+    372,
+    18,
+    31
+   ],
+   "guddu-down-w2": [
+    776,
+    372,
+    18,
+    31
+   ],
+   "guddu-down-w3": [
+    796,
+    372,
+    18,
+    31
+   ],
+   "guddu-up-w0": [
+    816,
+    372,
+    18,
+    31
+   ],
+   "guddu-up-w1": [
+    836,
+    372,
+    18,
+    31
+   ],
+   "guddu-up-w2": [
+    856,
+    372,
+    18,
+    31
+   ],
+   "guddu-up-w3": [
+    876,
+    372,
+    18,
+    31
+   ],
+   "guddu-side-w0": [
+    896,
+    372,
+    18,
+    31
+   ],
+   "guddu-side-w1": [
+    916,
+    372,
+    18,
+    31
+   ],
+   "guddu-side-w2": [
+    936,
+    372,
+    18,
+    31
+   ],
+   "guddu-side-w3": [
+    956,
+    372,
+    18,
+    31
+   ],
+   "player-down-0": [
+    976,
+    372,
+    17,
+    31
+   ],
+   "player-down-w0": [
+    995,
+    372,
+    17,
+    31
+   ],
+   "player-down-w1": [
+    1014,
+    372,
+    17,
+    31
+   ],
+   "player-down-w2": [
+    1033,
+    372,
+    17,
+    31
+   ],
+   "player-down-w3": [
+    1052,
+    372,
+    17,
+    31
+   ],
+   "player-up-0": [
+    1071,
+    372,
+    17,
+    31
+   ],
+   "player-up-w0": [
+    1090,
+    372,
+    17,
+    31
+   ],
+   "player-up-w1": [
+    1109,
+    372,
+    17,
+    31
+   ],
+   "player-up-w2": [
+    1128,
+    372,
+    17,
+    31
+   ],
+   "player-up-w3": [
+    1147,
+    372,
+    17,
+    31
+   ],
+   "player-side-0": [
+    1166,
+    372,
+    17,
+    31
+   ],
+   "player-side-w0": [
+    1185,
+    372,
+    17,
+    31
+   ],
+   "player-side-w1": [
+    1204,
+    372,
+    17,
+    31
+   ],
+   "player-side-w2": [
+    1223,
+    372,
+    17,
+    31
+   ],
+   "player-side-w3": [
+    1242,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-down-0": [
+    1261,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-up-0": [
+    1280,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-side-0": [
+    1299,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-down-1": [
+    1318,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-up-w0": [
+    1337,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-up-w1": [
+    1356,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-up-w2": [
+    1375,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-up-w3": [
+    1394,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-side-w0": [
+    1413,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-side-w1": [
+    1432,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-side-w2": [
+    1451,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-side-w3": [
+    1470,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-down-w0": [
+    1489,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-down-w1": [
+    1508,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-down-w2": [
+    1527,
+    372,
+    17,
+    31
+   ],
+   "sarpanch-down-w3": [
+    1546,
+    372,
+    17,
+    31
+   ],
+   "irfan-down-0": [
+    1565,
+    372,
+    17,
+    31
+   ],
+   "irfan-down-w0": [
+    1584,
+    372,
+    17,
+    31
+   ],
+   "irfan-down-w1": [
+    1603,
+    372,
+    17,
+    31
+   ],
+   "irfan-down-w2": [
+    1622,
+    372,
+    17,
+    31
+   ],
+   "irfan-down-w3": [
+    1641,
+    372,
+    17,
+    31
+   ],
+   "irfan-up-0": [
+    1660,
+    372,
+    17,
+    31
+   ],
+   "irfan-up-w0": [
+    1679,
+    372,
+    17,
+    31
+   ],
+   "irfan-up-w1": [
+    1698,
+    372,
+    17,
+    31
+   ],
+   "irfan-up-w2": [
+    1717,
+    372,
+    17,
+    31
+   ],
+   "irfan-up-w3": [
+    1736,
+    372,
+    17,
+    31
+   ],
+   "irfan-side-0": [
+    1755,
+    372,
+    17,
+    31
+   ],
+   "irfan-side-w0": [
+    1774,
+    372,
+    17,
+    31
+   ],
+   "irfan-side-w1": [
+    1793,
+    372,
+    17,
+    31
+   ],
+   "irfan-side-w2": [
+    1812,
+    372,
+    17,
+    31
+   ],
+   "irfan-side-w3": [
+    1831,
+    372,
+    17,
+    31
+   ],
+   "irfan-down-1": [
+    1850,
+    372,
+    17,
+    31
+   ],
+   "i-axe": [
+    1869,
+    372,
+    30,
+    30
+   ],
+   "i-laddoo": [
+    1901,
+    372,
+    30,
+    30
+   ],
+   "i-paper": [
+    1933,
+    372,
+    30,
+    30
+   ],
+   "i-tape": [
+    1965,
+    372,
+    30,
+    30
+   ],
+   "weed-2": [
+    1997,
+    372,
+    28,
+    30
+   ],
+   "chintu-down-0": [
+    2027,
+    372,
+    16,
+    30
+   ],
+   "chintu-up-0": [
+    0,
+    405,
+    16,
+    30
+   ],
+   "chintu-side-0": [
+    18,
+    405,
+    16,
+    30
+   ],
+   "chintu-down-1": [
+    36,
+    405,
+    16,
+    30
+   ],
+   "chintu-down-w0": [
+    54,
+    405,
+    16,
+    30
+   ],
+   "chintu-down-w1": [
+    72,
+    405,
+    16,
+    30
+   ],
+   "chintu-down-w2": [
+    90,
+    405,
+    16,
+    30
+   ],
+   "chintu-down-w3": [
+    108,
+    405,
+    16,
+    30
+   ],
+   "chintu-up-w0": [
+    126,
+    405,
+    16,
+    30
+   ],
+   "chintu-up-w1": [
+    144,
+    405,
+    16,
+    30
+   ],
+   "chintu-up-w2": [
+    162,
+    405,
+    16,
+    30
+   ],
+   "chintu-up-w3": [
+    180,
+    405,
+    16,
+    30
+   ],
+   "chintu-side-w0": [
+    198,
+    405,
+    16,
+    30
+   ],
+   "chintu-side-w1": [
+    216,
+    405,
+    16,
+    30
+   ],
+   "chintu-side-w2": [
+    234,
+    405,
+    16,
+    30
+   ],
+   "chintu-side-w3": [
+    252,
+    405,
+    16,
+    30
+   ],
+   "i-phone": [
+    270,
+    405,
+    29,
+    29
+   ],
+   "crop-mustard": [
+    301,
+    405,
+    28,
+    29
+   ],
+   "dog": [
+    331,
+    405,
+    25,
+    29
+   ],
+   "savita-down-0": [
+    358,
+    405,
+    18,
+    29
+   ],
+   "savita-up-0": [
+    378,
+    405,
+    18,
+    29
+   ],
+   "savita-side-0": [
+    398,
+    405,
+    18,
+    29
+   ],
+   "savita-down-1": [
+    418,
+    405,
+    18,
+    29
+   ],
+   "savita-down-w0": [
+    438,
+    405,
+    18,
+    29
+   ],
+   "savita-down-w1": [
+    458,
+    405,
+    18,
+    29
+   ],
+   "savita-down-w2": [
+    478,
+    405,
+    18,
+    29
+   ],
+   "savita-down-w3": [
+    498,
+    405,
+    18,
+    29
+   ],
+   "savita-up-w0": [
+    518,
+    405,
+    18,
+    29
+   ],
+   "savita-up-w1": [
+    538,
+    405,
+    18,
+    29
+   ],
+   "savita-up-w2": [
+    558,
+    405,
+    18,
+    29
+   ],
+   "savita-up-w3": [
+    578,
+    405,
+    18,
+    29
+   ],
+   "savita-side-w0": [
+    598,
+    405,
+    18,
+    29
+   ],
+   "savita-side-w1": [
+    618,
+    405,
+    18,
+    29
+   ],
+   "savita-side-w2": [
+    638,
+    405,
+    18,
+    29
+   ],
+   "savita-side-w3": [
+    658,
+    405,
+    18,
+    29
+   ],
+   "tikku-down-0": [
+    678,
+    405,
+    17,
+    29
+   ],
+   "tikku-down-w0": [
+    697,
+    405,
+    17,
+    29
+   ],
+   "tikku-down-w1": [
+    716,
+    405,
+    17,
+    29
+   ],
+   "tikku-down-w2": [
+    735,
+    405,
+    17,
+    29
+   ],
+   "tikku-down-w3": [
+    754,
+    405,
+    17,
+    29
+   ],
+   "tikku-up-0": [
+    773,
+    405,
+    17,
+    29
+   ],
+   "tikku-up-w0": [
+    792,
+    405,
+    17,
+    29
+   ],
+   "tikku-up-w1": [
+    811,
+    405,
+    17,
+    29
+   ],
+   "tikku-up-w2": [
+    830,
+    405,
+    17,
+    29
+   ],
+   "tikku-up-w3": [
+    849,
+    405,
+    17,
+    29
+   ],
+   "tikku-side-0": [
+    868,
+    405,
+    17,
+    29
+   ],
+   "tikku-side-w0": [
+    887,
+    405,
+    17,
+    29
+   ],
+   "tikku-side-w1": [
+    906,
+    405,
+    17,
+    29
+   ],
+   "tikku-side-w2": [
+    925,
+    405,
+    17,
+    29
+   ],
+   "tikku-side-w3": [
+    944,
+    405,
+    17,
+    29
+   ],
+   "tikku-down-1": [
+    963,
+    405,
+    17,
+    29
+   ],
+   "mistry-down-0": [
+    982,
+    405,
+    15,
+    29
+   ],
+   "mistry-down-w0": [
+    999,
+    405,
+    15,
+    29
+   ],
+   "mistry-down-w1": [
+    1016,
+    405,
+    15,
+    29
+   ],
+   "mistry-down-w2": [
+    1033,
+    405,
+    15,
+    29
+   ],
+   "mistry-down-w3": [
+    1050,
+    405,
+    15,
+    29
+   ],
+   "mistry-up-0": [
+    1067,
+    405,
+    15,
+    29
+   ],
+   "mistry-up-w0": [
+    1084,
+    405,
+    15,
+    29
+   ],
+   "mistry-up-w1": [
+    1101,
+    405,
+    15,
+    29
+   ],
+   "mistry-up-w2": [
+    1118,
+    405,
+    15,
+    29
+   ],
+   "mistry-up-w3": [
+    1135,
+    405,
+    15,
+    29
+   ],
+   "mistry-side-0": [
+    1152,
+    405,
+    15,
+    29
+   ],
+   "mistry-side-w0": [
+    1169,
+    405,
+    15,
+    29
+   ],
+   "mistry-side-w1": [
+    1186,
+    405,
+    15,
+    29
+   ],
+   "mistry-side-w2": [
+    1203,
+    405,
+    15,
+    29
+   ],
+   "mistry-side-w3": [
+    1220,
+    405,
+    15,
+    29
+   ],
+   "mistry-down-1": [
+    1237,
+    405,
+    15,
+    29
+   ],
+   "rhea-down-0": [
+    1254,
+    405,
+    14,
+    29
+   ],
+   "rhea-down-w0": [
+    1270,
+    405,
+    14,
+    29
+   ],
+   "rhea-down-w1": [
+    1286,
+    405,
+    14,
+    29
+   ],
+   "rhea-down-w2": [
+    1302,
+    405,
+    14,
+    29
+   ],
+   "rhea-down-w3": [
+    1318,
+    405,
+    14,
+    29
+   ],
+   "rhea-up-0": [
+    1334,
+    405,
+    14,
+    29
+   ],
+   "rhea-up-w0": [
+    1350,
+    405,
+    14,
+    29
+   ],
+   "rhea-up-w1": [
+    1366,
+    405,
+    14,
+    29
+   ],
+   "rhea-up-w2": [
+    1382,
+    405,
+    14,
+    29
+   ],
+   "rhea-up-w3": [
+    1398,
+    405,
+    14,
+    29
+   ],
+   "rhea-side-0": [
+    1414,
+    405,
+    14,
+    29
+   ],
+   "rhea-side-w0": [
+    1430,
+    405,
+    14,
+    29
+   ],
+   "rhea-side-w1": [
+    1446,
+    405,
+    14,
+    29
+   ],
+   "rhea-side-w2": [
+    1462,
+    405,
+    14,
+    29
+   ],
+   "rhea-side-w3": [
+    1478,
+    405,
+    14,
+    29
+   ],
+   "rhea-down-1": [
+    1494,
+    405,
+    14,
+    29
+   ],
+   "charpai": [
+    1510,
+    405,
+    42,
+    28
+   ],
+   "lotus": [
+    1554,
+    405,
+    29,
+    28
+   ],
+   "i-feather": [
+    1585,
+    405,
+    28,
+    28
+   ],
+   "i-hammer": [
+    1615,
+    405,
+    28,
+    28
+   ],
+   "i-paints": [
+    1645,
+    405,
+    28,
+    28
+   ],
+   "i-wood": [
+    1675,
+    405,
+    28,
+    28
+   ],
+   "goat": [
+    1705,
+    405,
+    26,
+    28
+   ],
+   "milestone": [
+    1733,
+    405,
+    24,
+    28
+   ],
+   "kingfisher": [
+    1759,
+    405,
+    20,
+    28
+   ],
+   "bridge-broken": [
+    1781,
+    405,
+    53,
+    27
+   ],
+   "buffalo": [
+    1836,
+    405,
+    42,
+    27
+   ],
+   "pots": [
+    1880,
+    405,
+    28,
+    27
+   ],
+   "hen": [
+    1910,
+    405,
+    22,
+    27
+   ],
+   "cat": [
+    1934,
+    405,
+    20,
+    27
+   ],
+   "rubble": [
+    1956,
+    405,
+    36,
+    26
+   ],
+   "log": [
+    1994,
+    405,
+    34,
+    26
+   ],
+   "crate-old": [
+    0,
+    437,
+    28,
+    26
+   ],
+   "weed-1": [
+    30,
+    437,
+    27,
+    26
+   ],
+   "bush-1": [
+    59,
+    437,
+    26,
+    26
+   ],
+   "flowers-1": [
+    87,
+    437,
+    26,
+    26
+   ],
+   "i-mango": [
+    115,
+    437,
+    26,
+    26
+   ],
+   "i-milk": [
+    143,
+    437,
+    26,
+    26
+   ],
+   "i-peacock": [
+    171,
+    437,
+    26,
+    26
+   ],
+   "i-scrap": [
+    199,
+    437,
+    26,
+    26
+   ],
+   "i-sickle": [
+    227,
+    437,
+    26,
+    26
+   ],
+   "i-brush": [
+    255,
+    437,
+    26,
+    26
+   ],
+   "i-drive": [
+    283,
+    437,
+    26,
+    26
+   ],
+   "hedge": [
+    311,
+    437,
+    48,
+    25
+   ],
+   "tyres": [
+    361,
+    437,
+    26,
+    25
+   ],
+   "i-chai": [
+    389,
+    437,
+    25,
+    25
+   ],
+   "i-marigold": [
+    416,
+    437,
+    25,
+    25
+   ],
+   "bush-2": [
+    443,
+    437,
+    26,
+    24
+   ],
+   "i-bag": [
+    471,
+    437,
+    24,
+    24
+   ],
+   "i-fibre": [
+    497,
+    437,
+    24,
+    24
+   ],
+   "i-poster": [
+    523,
+    437,
+    24,
+    24
+   ],
+   "cart": [
+    549,
+    437,
+    48,
+    23
+   ],
+   "cycle": [
+    599,
+    437,
+    40,
+    23
+   ],
+   "set-piece": [
+    641,
+    437,
+    24,
+    23
+   ],
+   "i-tripod": [
+    667,
+    437,
+    23,
+    23
+   ],
+   "reeds": [
+    692,
+    437,
+    24,
+    22
+   ],
+   "i-cap": [
+    718,
+    437,
+    22,
+    22
+   ],
+   "i-photo": [
+    742,
+    437,
+    22,
+    22
+   ],
+   "junk": [
+    766,
+    437,
+    31,
+    21
+   ],
+   "bench": [
+    799,
+    437,
+    28,
+    20
+   ],
+   "i-prop": [
+    829,
+    437,
+    20,
+    20
+   ],
+   "i-ticket": [
+    851,
+    437,
+    20,
+    20
+   ],
+   "stump": [
+    873,
+    437,
+    29,
+    19
+   ],
+   "i-clip": [
+    904,
+    437,
+    19,
+    19
+   ],
+   "i-script": [
+    925,
+    437,
+    19,
+    19
+   ],
+   "boat": [
+    946,
+    437,
+    46,
+    18
+   ],
+   "rock-small": [
+    994,
+    437,
+    18,
+    13
+   ]
+  }
+ }
+}
